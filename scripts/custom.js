@@ -1,4 +1,4 @@
-const userName = "KRMM";
+const userName = "KRIM";
 const feats = 0;
 const themeDir = "styles/themes/";
 const themeLight = "gruvbox-light";
